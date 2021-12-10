@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2659fef-d484-42e0-bf1d-5900bb5211c6": {
+      "ProjectGuid": "f2659fef-d484-42e0-bf1d-5900bb5211c6",
+      "DisplayName": "Projeto.Shared",
+      "ColorIndex": 0
+    },
+    "6bb1c8c3-2f52-4c5c-9728-cb63b1cec85e": {
+      "ProjectGuid": "6bb1c8c3-2f52-4c5c-9728-cb63b1cec85e",
+      "DisplayName": "UnitTestPadrao",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

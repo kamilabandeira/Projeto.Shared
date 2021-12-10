@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\Kamila\Projeto.Shared\Projeto.Shared\bin\Debug\Projeto.Shared.dll
+C:\Users\DELL\Desktop\Kamila\Projeto.Shared\Projeto.Shared\bin\Debug\Projeto.Shared.pdb
+C:\Users\DELL\Desktop\Kamila\Projeto.Shared\Projeto.Shared\obj\Debug\Projeto.Shared.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Kamila\Projeto.Shared\Projeto.Shared\obj\Debug\Projeto.Shared.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Kamila\Projeto.Shared\Projeto.Shared\obj\Debug\Projeto.Shared.dll
+C:\Users\DELL\Desktop\Kamila\Projeto.Shared\Projeto.Shared\obj\Debug\Projeto.Shared.pdb
